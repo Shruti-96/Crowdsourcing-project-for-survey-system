@@ -8,9 +8,11 @@ This project is just a prototype for few categries and can be helpful for compan
 
 # Instruction for execution:
 		1.Open XAMPP Control Panel. Start Apache and MYSQL.
-		2.Create the Databases required by using the dump code(file named dump.zip which also contain a read_me file for the 
-		instruction regarding the database) .
+		2.Create the Databases required by using the dump code(file named dump.zip which also contain a read_me file for the instruction regarding the database) .
 		3.Open the project code(not dump.txt) in NetBeans(all .php files).
 		4.Run the project.
+		
+For more detail check-out :
+https://angel.co/projects/229867-crowd-sourcing-project-involving-pairwise-data-analysis-php-project
 
 
